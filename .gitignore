@@ -1,0 +1,30 @@
+# Binaries
+/bin/
+/cmd/server/server
+
+# Dependency directories
+/pkg/mod/
+/vendor/
+
+# Generated files
+*.log
+*.out
+
+# Go build artifacts
+*.exe
+*.test
+*.o
+*.a
+
+# IDE and Editor Files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Configuration files
+.env
